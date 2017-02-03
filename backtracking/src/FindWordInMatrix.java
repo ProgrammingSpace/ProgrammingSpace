@@ -5,7 +5,7 @@ import java.util.ArrayList;
  * Functionality: Find occurrences of a word in a matrix, moving up, down, left, right, and diagonally.
  */
 
-public class Horizon {
+public class FindWordInMatrix {
     static class Point{
         int x, y;
 
