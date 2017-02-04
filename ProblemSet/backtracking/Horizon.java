@@ -1,4 +1,4 @@
-package Miscellaneous;
+package backtracking;
 
 import java.util.ArrayList;
 import java.util.Scanner;
@@ -6,7 +6,7 @@ import java.util.Scanner;
 /**
  * Created by natha on 1/27/2017.
  */
-public class FindTheWord
+public class Horizon
 {
 
     private static ArrayList<String[]> grid = new ArrayList<String[]>();

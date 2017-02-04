@@ -1,4 +1,4 @@
-package Miscellaneous;
+package backtracking;
 
 /**
  * Created by natha on 1/27/2017.
